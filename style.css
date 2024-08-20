@@ -1,0 +1,10 @@
+/*
+Theme Name: My Custom Theme
+Template: parent-theme-folder-name
+Author: Anish Kumar Sinha
+Description: A customized child theme to enhance user experience and functionality.
+Version: 1.0.0
+*/
+
+/* Import Parent Theme Styles */
+@import url("../parent-theme-folder-name/style.css");
